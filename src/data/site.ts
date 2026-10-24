@@ -2,20 +2,20 @@
 // Winners, stats and prize amounts are sample data: replace them with real, verifiable
 // results and publish your own rules before launching.
 export const site = {
-  name: 'PremioClub',
+  name: 'Ganando365🍀',
   description:
     'Únete gratis al club y participa todos los días por premios en efectivo. Sin compras, sin letra pequeña: entra al canal de WhatsApp y juega.',
-  whatsappUrl: 'https://whatsapp.com/channel/',
-  prize: '$250.000',
+  whatsappUrl: 'https://chat.whatsapp.com/BedyqSUWE9S6pnSu09eTrR?s=cl&p=i&mlu=4&ilr=4',
+  prize: '$250.0000',
   // Hour (0–23, visitor's local time) of the daily draw, used by the countdown.
   drawHour: 20,
   hero: {
-    badge: 'Sorteo diario · 100% gratis',
+    badge: 'Sorteo diario · Reclama BONO 100% gratis',
     title: 'Gana dinero en efectivo',
-    highlight: 'todos los días.',
+    highlight: 'todos los 365 días.',
     subtitle:
-      'Entra al canal, participa en retos de 1 minuto y llévate premios reales. Sin pagar nada, sin compras obligatorias.',
-    cta: 'Unirme gratis por WhatsApp',
+      'Entra al grupo, participa en dínamicas y llévate premios en efectivo. Si pago anticipado, sin compras obligatorias.',
+    cta: 'Unirme GRATIS por WhatsApp',
   },
   stats: [
     { value: '+1.200', label: 'ganadores' },

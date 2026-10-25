@@ -60,7 +60,7 @@ export function LandingPage() {
           href="#registro"
           className="hidden rounded-full border border-white/20 px-4 py-2 text-sm font-semibold hover:bg-white/10 sm:inline-block"
         >
-          Participar gratis
+          Participar Gratis
         </a>
       </header>
 
@@ -86,8 +86,7 @@ export function LandingPage() {
               <div className="mt-8 flex flex-col items-center gap-4 md:items-start">
                 <WhatsAppCta className="text-lg" />
                 <p className="text-sm text-violet-200">
-                  Premio de hoy: <strong className="text-yellow-300">{site.prize}</strong> · Sin
-                  compras · +18
+                  Premio de hoy: <strong className="text-yellow-300">{site.prize}</strong> · 5 Oportunidades de Ganar · +18
                 </p>
               </div>
             </div>
@@ -203,7 +202,7 @@ export function LandingPage() {
         {/* Testimonials */}
         <section className="mx-auto max-w-5xl px-5 py-20">
           <h2 className="font-display text-center text-4xl font-extrabold tracking-tight">
-            Lo que dicen en el club
+            Lo que dicen en el Club
           </h2>
           <div className="mt-10 grid gap-5 md:grid-cols-2">
             {site.testimonials.map((t) => (

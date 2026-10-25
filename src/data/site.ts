@@ -14,7 +14,7 @@ export const site = {
     title: 'Gana dinero en efectivo',
     highlight: 'todos los 365 días.',
     subtitle:
-      'Entra al grupo, participa en dínamicas y llévate premios en efectivo. Sin compras obligatorias.',
+      'Entra al grupo, participa en dinámicas y llévate premios en efectivo. Sin compras obligatorias.',
     cta: 'Unirme GRATIS por WhatsApp💲',
   },
   stats: [

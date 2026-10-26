@@ -5,7 +5,7 @@ export const site = {
   name: 'Ganando365🍀',
   description:
     'Únete gratis al club y participa todos los días por premios en efectivo. Sin compras obligatorias, sin letra pequeña: entra al canal de WhatsApp y juega.',
-  whatsappUrl: 'https://chat.whatsapp.com/DPhi1k8eUJD8THp978J5h8?s=cl&p=i&mlu=4&ilr=4',
+  whatsappUrl: 'https://chat.whatsapp.com/EGmLm7dI6ldKBEIFVEET4i?s=cl&p=a&mlu=4&ilr=4',
   prize: '$155.000',
   // Hour (0–23, visitor's local time) of the daily draw, used by the countdown.
   drawHour: 22,
